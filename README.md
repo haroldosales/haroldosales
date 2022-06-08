@@ -1,11 +1,12 @@
-### Hi there 👋
 
+### Olá, me chamo Haroldo Sales 👋
+### Hi , my name is Haroldo Sales 👋
 <!--
 **haroldosales/haroldosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Atualmente estou trabalhando como desenvolvedor Junior com as stack Dotnet,Flutter
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
