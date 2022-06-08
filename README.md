@@ -1,8 +1,8 @@
-## Olá, me chamo Haroldo Sales 👋
+# Olá, me chamo Haroldo Sales 👋
 
-## Hi , my name is Haroldo Sales 👋
+# Hi , my name is Haroldo Sales 👋
 
-# Minhas experiencias pessoais
+### Minhas experiencias pessoais
 
 - www.condominiomarataizes.com.br: Desenvolvimento do site da empresa, desde da construção Backend e Frontend e a implementação e manutenção do mesmo.
 
