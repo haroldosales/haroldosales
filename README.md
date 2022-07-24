@@ -11,5 +11,5 @@
 - www.esteticasandracarneiro.com.br : Desenvolvimento do site da empresa , desde da construção do de Backend e Frontend e implementação e manutenção do mesmo.
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor Junior com as stack Dotnet,Flutter
-- 🌱 Eu atualmente procuro me forca em desenvolvimento web
+- 🌱 Eu atualmente procuro está sempre atualizado em desenvolvimento web
 
