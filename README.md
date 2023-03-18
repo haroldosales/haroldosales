@@ -10,6 +10,6 @@
 
 - www.esteticasandracarneiro.com.br : Desenvolvimento do site da empresa , desde da construção do de Backend e Frontend e implementação e manutenção do mesmo.
 
-- 🔭 Atualmente estou trabalhando como QA Junior manual indo por automazaç
+- 🔭 Atualmente estou trabalhando como QA Junior manual
 - 🌱 Eu atualmente procuro está sempre atualizado em desenvolvimento web
 
