@@ -8,7 +8,7 @@
 
 - www.esteticasandracarneiro.com.br : Desenvolvimento do site da empresa , desde da construção do de Backend e Frontend e implementação e manutenção do mesmo.
 
-- 🔭 Atualmente estou trabalhando como QA Junior manual
+- 🔭 Atualmente estou trabalhando como Engenheiro qualidade na @dtdigital
 - 🌱 Eu atualmente procuro está sempre atualizado em desenvolvimento web
 # Hi , my name is Haroldo Sales 👋
 
@@ -21,5 +21,5 @@
 
 - www.esteticasandracarneiro.com.br: Development of the company's website, from the construction of the Backend and Frontend to its implementation and maintenance.
 
-- 🔭 I am currently working as a Junior QA manual
+- 🔭 I am currently working as a  Qquality engineer at @dtdigital
 - 🌱 I'm currently looking to stay up-to-date in web development
